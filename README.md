@@ -26,4 +26,5 @@ The project aims at assessing the security camera systems in campuses and determ
 - Interpreting risks in security to action plans.
 
 ## File Included
-- Campus Security Camera Project w Risk Assessment.xlsx.
+https://1drv.ms/x/c/df46f35ac302028d/IQAI62Bf6Ez2SbEuOSfhJdJCATrtFN-FBuMyf27418isCRE?e=SW2VOU
+
